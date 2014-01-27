@@ -1,0 +1,4 @@
+name: InvisiBuster-SNAPSHOT
+main: ru.extered.invisibuster.InvisiBuster
+version: 1.0
+depend: [ProtocolLib, PermissionsEx]
