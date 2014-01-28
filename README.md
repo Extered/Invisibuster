@@ -16,3 +16,7 @@ Permissions:
 `ru.extered.ib.toggle` - `/ib` command
 
 `ru.extered.ib.update` - `/ibr` command
+
+Dependencies:
+-------------
+[ProtocolLib](https://github.com/aadnk/ProtocolLib) and [PermissionsEx](https://github.com/PEXPlugins/PermissionsEx)
