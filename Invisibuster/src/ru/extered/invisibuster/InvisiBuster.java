@@ -93,7 +93,7 @@ public class InvisiBuster extends JavaPlugin {
 		for (Entity e : ents) {
 			if (e instanceof CraftPlayer)
 			{
-				updateNearbyEntities((CraftPlayer)e);
+				sendEntityUpdate((Player)e, (CraftEntity)center);
 			}
 		}
 	}
